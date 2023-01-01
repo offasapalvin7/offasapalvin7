@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=offasapalvin7" alt="offasapalvin7" /></a> </p>
 
-- 🌱 I’m currently learning **CCN from Jetking**
+- 🌱 I’m currently learning **CCNA from Jetking**
 
 - 🤝 I’m looking for help with [Hacking: A Compartmentalised Social Justice Project](https://www.researchgate.net/publication/361700871_Hacking_A_Compartmentalised_Social_Justice_Project)
 
